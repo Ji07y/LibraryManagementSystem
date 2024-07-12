@@ -1,0 +1,153 @@
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.csproj.AssemblyReference.cache
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.AssemblyInfoInputs.cache
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.AssemblyInfo.cs
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.RazorAssemblyInfo.cache
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.RazorAssemblyInfo.cs
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\appsettings.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\BookSearchService.exe
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\BookSearchService.deps.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\BookSearchService.runtimeconfig.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\BookSearchService.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\BookSearchService.pdb
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.BookSearchService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.build.BookSearchService.props
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookSearchService.props
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookSearchService.props
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\scopedcss\bundle\BookSearchService.styles.css
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSear.67F92DCA.Up2Date
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\refint\BookSearchService.dll
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.pdb
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\BookSearchService.genruntimeconfig.cache
+C:\Users\carlos.ochoa\Desktop\BookSearchService\obj\Debug\net8.0\ref\BookSearchService.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\LibraryManagementSystem.staticwebassets.runtime.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\LibraryManagementSystem.exe
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\appsettings.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\BookSearchService.staticwebassets.runtime.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\BookSearchService.exe
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\BookSearchService.deps.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\BookSearchService.runtimeconfig.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\BookSearchService.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\BookSearchService.pdb
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.csproj.AssemblyReference.cache
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.AssemblyInfoInputs.cache
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.AssemblyInfo.cs
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.csproj.CoreCompileInputs.cache
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.RazorAssemblyInfo.cache
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.RazorAssemblyInfo.cs
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.BookSearchService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.build.BookSearchService.props
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookSearchService.props
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookSearchService.props
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\scopedcss\bundle\BookSearchService.styles.css
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSear.67F92DCA.Up2Date
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\refint\BookSearchService.dll
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.pdb
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\BookSearchService.genruntimeconfig.cache
+C:\Users\Jio\Downloads\Proyecto (1)\BookSearchService\obj\Debug\net8.0\ref\BookSearchService.dll

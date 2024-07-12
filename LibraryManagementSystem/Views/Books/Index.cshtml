@@ -1,0 +1,53 @@
+@model IEnumerable<LibraryManagementSystem.Models.Book>
+
+@{
+    ViewData["Title"] = "Books";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="sidebar">
+    <h2>Library Management</h2>
+    <ul class="nav">
+        <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Books</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Authors</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Genres</a></li>
+    </ul>
+</div>
+<div class="content">
+    <div class="header">
+        <h1>Books</h1>
+        <div class="search-input">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-muted-foreground">
+                <circle cx="11" cy="11" r="8"></circle>
+                <path d="m21 21-4.3-4.3"></path>
+            </svg>
+            <input class="form-control" placeholder="Search books..." type="search" />
+        </div>
+    </div>
+    <div class="add-book">
+        <a href="books/create" class="btn">Add New Book</a>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Available</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Genre</td>
+                    <td>@(book.Available ? "Yes" : "No")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<link rel="stylesheet" href="~/css/styles.css">

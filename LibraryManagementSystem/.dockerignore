@@ -1,0 +1,9 @@
+bin\
+obj\
+*.csproj.user
+*.csproj.DotSettings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode\
