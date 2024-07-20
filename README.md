@@ -1,4 +1,4 @@
-# Proyecto GestionSistemaLiBRERIA
+# Proyecto Gestion Sistema de Libreria
 
 Este repositorio contiene un sistema de gestión para una biblioteca llamado GestionSistemaLiBRERIA, desarrollado en ASP.NET Core. El proyecto se divide en dos aplicaciones principales:
 
