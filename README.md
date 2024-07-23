@@ -10,7 +10,7 @@ BookSearchService es un servicio que permite buscar libros mediante una API REST
 
 - **URL Base del Servicio:** `http://localhost:5180`
 - **Endpoints Disponibles:**
-  - `/weatherforecast/`: Devuelve el pronóstico del tiempo en formato JSON.
+  - `/SearchService`: Devuelve el llibros de la libreria en formato JSON.
 
 ### Tecnologías Utilizadas
 
