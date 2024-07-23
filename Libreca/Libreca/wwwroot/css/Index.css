@@ -1,0 +1,159 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f4fb;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar .fa {
+    color: #5e43aa;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.sidebar {
+    width: 80px;
+    background-color: #f0f4fb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0;
+    border-right: 2px solid rgb(198, 184, 234);
+}
+
+.sidebar-btn {
+    background: none;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.search-bar {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+    width: 200px;
+}
+
+.search-btn {
+    padding: 10px 20px;
+    margin-left: 10px;
+    color: #fff;
+    background-color: #5e43aa;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.user-menu {
+    position: relative;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.user-menu-button {
+    background-color: #f0eff5;
+    border-color: #5e43aa;
+    border-radius: 500px;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+
+.user-menu-dropdown {
+    display: none;
+    position: absolute;
+    right: 5px;
+    margin-top: 200px;
+    background-color: #f9f9f9;
+    border-color: #9b7ff7;
+    border-radius: 20px;
+    min-width: 160px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+    .user-menu-dropdown a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .user-menu-dropdown a:hover {
+            background-color: #9b7ff7;
+            border-radius: 20px;
+        }
+
+    .user-menu-button:focus + .user-menu-dropdown,
+    .user-menu-dropdown:hover {
+        display: block;
+    }
+
+.books-section {
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.section-title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.section-subtitle {
+    margin: 5px 0 20px;
+    color: #888;
+}
+
+.books-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .books-table th,
+    .books-table td {
+        padding: 10px;
+        border-bottom: 1px solid #ddd;
+        border-color: #9b7ff7;
+        text-align: center;
+    }
+
+    .books-table tr:hover {
+        background-color: #bbaad8;
+    }
+
+.rent-btn {
+    padding: 5px 10px;
+    background-color: #5e43aa;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+    .rent-btn:disabled {
+        background-color: #e9357d;
+        cursor: not-allowed;
+    }

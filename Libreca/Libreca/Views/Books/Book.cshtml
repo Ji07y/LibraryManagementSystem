@@ -1,0 +1,58 @@
+﻿@model List<Libreca.Models.Book>
+@{
+    ViewData["Title"] = "Search Books";
+}
+
+<h2>Search Books</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="query">Search</label>
+        <input type="text" class="form-control" id="query" name="query" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model != null && Model.Count > 0)
+{
+    <h3>Results:</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Available</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Genre</td>
+                <td>@(book.Available ? "Yes" : "No")</td>
+                <td>
+                    @if (book.Available)
+                    {
+                        <form asp-action="Loan" method="post" style="display:inline;">
+                            <input type="hidden" name="BookId" value="@book.Id" />
+                            <input type="hidden" name="User" value="CurrentUser" /> 
+                            <button type="submit" class="btn btn-success">Rent</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-action="Return" method="post" style="display:inline;">
+                            <input type="hidden" name="BookId" value="@book.Id" />
+                            <button type="submit" class="btn btn-warning">Return</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}

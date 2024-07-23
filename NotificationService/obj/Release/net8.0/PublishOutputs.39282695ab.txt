@@ -1,0 +1,4 @@
+C:\Proyecto\NotificationService\publish\NotificationService.dll
+C:\Proyecto\NotificationService\publish\NotificationService.deps.json
+C:\Proyecto\NotificationService\publish\NotificationService.pdb
+C:\Proyecto\NotificationService\publish\RabbitMQ.Client.dll

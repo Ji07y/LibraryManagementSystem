@@ -1,34 +1,53 @@
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\appsettings.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\NotificationService.exe
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\NotificationService.runtimeconfig.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\NotificationService.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\NotificationService.pdb
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\RabbitMQ.Client.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets\msbuild.NotificationService.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets\msbuild.build.NotificationService.props
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NotificationService.props
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NotificationService.props
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\scopedcss\bundle\NotificationService.styles.css
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\Notifica.A960C9D4.Up2Date
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.pdb
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
-C:\Users\Jio\Downloads\Proyecto (1)\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.dll
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.dll
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+C:\Users\carlos.ochoa\Desktop\Proyecto\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.dll
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.dll
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+C:\Users\Jio\Downloads\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
+C:\Proyecto\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+C:\Proyecto\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.dll
+C:\Proyecto\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.dll
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+C:\Proyecto\Proyecto\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll
+C:\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.exe
+C:\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.deps.json
+C:\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.runtimeconfig.json
+C:\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.dll
+C:\Proyecto\NotificationService\bin\Debug\net8.0\NotificationService.pdb
+C:\Proyecto\NotificationService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.AssemblyReference.cache
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfoInputs.cache
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.AssemblyInfo.cs
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Proyecto\NotificationService\obj\Debug\net8.0\Notifica.A960C9D4.Up2Date
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.dll
+C:\Proyecto\NotificationService\obj\Debug\net8.0\refint\NotificationService.dll
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.pdb
+C:\Proyecto\NotificationService\obj\Debug\net8.0\NotificationService.genruntimeconfig.cache
+C:\Proyecto\NotificationService\obj\Debug\net8.0\ref\NotificationService.dll

@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Book>
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    body {
+        background-color: #f0f4f8;
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+
+
+    .card {
+        border-radius: 10px;
+        overflow: hidden;
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-header {
+        background-color: #e2d1f9;
+        color: #5e43aa;
+        text-align: center;
+        padding: 20px;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .card-body {
+        background-color: #ffffff;
+        padding: 30px;
+    }
+
+    .form-group label {
+        color: #5e43aa;
+        font-weight: bold;
+    }
+
+    .form-control {
+        border-radius: 25px;
+        border: 1px solid #d2c8f0;
+        box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn-primary {
+        background-color: #a3c4f3;
+        border-color: #a3c4f3;
+        border-radius: 25px;
+        color: #ffffff;
+    }
+
+        .btn-primary:hover {
+            background-color: #8cb2e5;
+            border-color: #8cb2e5;
+        }
+
+    .alert {
+        border-radius: 15px;
+    }
+</style>
+
+
+
+<h2>Search Results</h2>
+<form method="post" asp-action="Search">
+    <div class="form-group">
+        <label for="query">Search for Books:</label>
+        <input type="text" class="form-control" id="query" name="query" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Available</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Genre</td>
+                    <td>@book.Available</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
